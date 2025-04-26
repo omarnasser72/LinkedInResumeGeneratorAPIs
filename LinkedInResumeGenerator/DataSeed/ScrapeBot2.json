@@ -1,0 +1,129 @@
+[
+    {
+        "user_id": 1114001569,
+        "followers": "138 followers",
+        "activities": [
+            {
+                "title": "We're pulling back the curtain at OdooTec. Discover the journeys, insights, and passion that drives our commitment to excellence. Get ready for real…",
+                "attribution": "Liked by Omar Nasser",
+                "img": "https://media.licdn.com/dms/image/v2/D4D05AQFXC7JDqQ_PQg/videocover-high/B4DZYPc79dGkBw-/0/1744017062865?e=2147483647&v=beta&t=iw4lDCH7xWS2VImrKhhqhlvNt2ihGdgnGO57YqArxNE",
+                "link": "https://www.linkedin.com/posts/odootec_odootec-erpsolutions-crm-activity-7314937909025894401-ZoLR"
+            },
+            {
+                "title": "lesson learned: Choosing the correct DBMS is crucial when building an Application. Do not try a new \"Thing\" because it is new and cool and some big…",
+                "attribution": "Liked by Omar Nasser",
+                "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+                "link": "https://www.linkedin.com/posts/ahmed-saeed-75a2938b_lesson-learned-choosing-the-correct-dbms-activity-7203404011893383168-sB1X"
+            },
+            {
+                "title": "فى زمن كان كل ما كمبيوتر جديد بينزل السوق كان بيتعمله لغة برمجة جديدة كان فى اتنين موظفين فى معامل بيل (Bell Labs) اسمهم دينس ريتشي وكين…",
+                "attribution": "Liked by Omar Nasser",
+                "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+                "link": "https://ae.linkedin.com/posts/metwally_%D9%81%D9%89-%D8%B2%D9%85%D9%86-%D9%83%D8%A7%D9%86-%D9%83%D9%84-%D9%85%D8%A7-%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D9%8A%D9%86%D8%B2%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D9%82-activity-7200484712375586818-Ww5R"
+            }
+        ],
+        "recommendations": [],
+        "recommendations_count": 0,
+        "volunteer_experience": [],
+        "projects": [],
+        "patents": [],
+        "publications": [],
+        "awards": [],
+        "contributions": [],
+        "organizations": [],
+        "url": "https://eg.linkedin.com/in/omar-nasser-a010b0271/",
+        "name": "Omar Nasser",
+        "position": "Python Backend Engineer",
+        "current_company": {
+            "name": "PioneersNow Inc",
+            "link": "https://eg.linkedin.com/company/pioneersnow-inc?trk=public_profile_topcard-current-company"
+        },
+        "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHdWsVyMUJz4g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1680469871511?e=2147483647&v=beta&t=i6zROZzcNkngpfLKxecIoHWQJb74a7vgEu9RbTy9Hwg",
+        "about": "As an experienced freelancer and developer, I have worked on a variety of projects that have honed my skills in mobile app development, machine learning, and backend development.\n\nFrom January 2020 to May 2022, I worked as a freelance Flutter developer, where I developed cross-platform mobile applications using Flutter and Dart programming language. I gained experience working with a wide range of clients, from small businesses to large corporations, and was responsible for building high-quality mobile apps that met their specific business needs.\n\nFrom May 2022 to December 2022, I worked at iCreate as a Flutter developer, where I was responsible for building cross-platform apps and defining the architecture of the project. I also communicated with clients to understand their requirements and suggested new features to increase revenue. I worked collaboratively with backend developers and UI/UX designers to ensure seamless integration of the project.\n\nIn the meantime, I also worked as a freelance machine learning engineer, where I developed machine learning models for clients. This allowed me to develop a strong foundation in data analysis and modeling.\n\nCurrently, I am working as a backend Django developer and machine learning engineer as a freelancer, where I am responsible for building high-quality backend systems and developing machine learning models. With my extensive experience and skills, I am committed to delivering outstanding results for my clients.",
+        "following": "137 connections",
+        "educations_details": "Cairo University",
+        "posts": [],
+        "experience": [
+            {
+                "title": "Senior Software Engineer",
+                "subtitle": "PioneersNow Inc",
+                "subtitleURL": "https://eg.linkedin.com/company/pioneersnow-inc?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+                "location": "Cairo, Egypt",
+                "duration": "Dec 2024 - Present 5 months",
+                "start_date": "Dec 2024",
+                "end_date": "Present",
+                "duration_short": "5 months"
+            },
+            {
+                "title": "Senior Software Engineer",
+                "subtitle": "Lyve Global",
+                "subtitleURL": "https://ae.linkedin.com/company/lyveglobal?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+                "location": "Apr 2024 - Dec 2024 9 months",
+                "duration": "Apr 2024 Dec 2024 9 months",
+                "start_date": "Apr 2024",
+                "end_date": "Dec 2024",
+                "duration_short": "9 months"
+            },
+            {
+                "title": "Software Engineer",
+                "subtitle": "AROMA DESIGNS & SOLUTIONS",
+                "subtitleURL": "https://eg.linkedin.com/company/aroma-designs&solutions?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+                "location": "Feb 2024 - Apr 2024 3 months",
+                "duration": "Feb 2024 Apr 2024 3 months",
+                "start_date": "Feb 2024",
+                "end_date": "Apr 2024",
+                "duration_short": "3 months"
+            },
+            {
+                "company": "OdooTec",
+                "duration": "10 months",
+                "url": "https://sa.linkedin.com/company/odootec?trk=public_profile_experience-group-header",
+                "positions": [
+                    {
+                        "title": "Python Developer",
+                        "subtitle": "Feb 2024 - Feb 2024 1 month",
+                        "meta": "Feb 2024 - Feb 2024 1 month",
+                        "duration": "Feb 2024 Feb 2024 1 month",
+                        "start_date": "Feb 2024",
+                        "end_date": "Feb 2024",
+                        "duration_short": "1 month"
+                    },
+                    {
+                        "title": "Python Developer",
+                        "subtitle": "May 2023 - Feb 2024 10 months",
+                        "meta": "May 2023 - Feb 2024 10 months",
+                        "duration": "May 2023 Feb 2024 10 months",
+                        "start_date": "May 2023",
+                        "end_date": "Feb 2024",
+                        "duration_short": "10 months"
+                    }
+                ]
+            },
+            {
+                "title": "Full-stack Developer",
+                "subtitle": "iCreate",
+                "location": "Cairo, Egypt",
+                "duration": "May 2022 Dec 2022 8 months",
+                "start_date": "May 2022",
+                "end_date": "Dec 2022",
+                "duration_short": "8 months"
+            }
+        ],
+        "education": [
+            {
+                "title": "Cairo University",
+                "degree": "Bachelor of Computers and Artificial Intelligence",
+                "field": "Artificial Intelligence",
+                "meta": "During my studies at Cairo University, I gained a strong foundation in Artificial Intelligence, including knowledge in machine learning, natural language processing, computer vision, and robotics. I developed a solid understanding of the underlying mathematics and statistics behind machine learning algorithms, as well as practical experience in programming and data analysis using Python and other programming languages.Through group projects and coursework, I honed my ability to work… During my studies at Cairo University, I gained a strong foundation in Artificial Intelligence, including knowledge in machine learning, natural language processing, computer vision, and robotics. I developed a solid understanding of the underlying mathematics and statistics behind machine learning algorithms, as well as practical experience in programming and data analysis using Python and other programming languages.Through group projects and coursework, I honed my ability to work collaboratively with others, effectively communicate complex technical concepts, and apply problem-solving skills to real-world challenges. Overall, my education at Cairo University provided me with a strong foundation in artificial intelligence and equipped me with the skills necessary to succeed as a machine learning engineer.",
+                "url": "https://eg.linkedin.com/school/cairo-university/?trk=public_profile_school_profile-section-card_image-click",
+                "start_year": "2018",
+                "end_year": "2022"
+            }
+        ],
+        "certifications": [],
+        "courses": [],
+        "languages": [],
+        "groups": [],
+        "people_also_viewed": []
+    }
+]
